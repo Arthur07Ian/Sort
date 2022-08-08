@@ -1,4 +1,4 @@
-class sort:
+class Sort:
     @staticmethod
     def quicksort(array):
         if len(array) <= 1:
